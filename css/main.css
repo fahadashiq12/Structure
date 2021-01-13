@@ -1,0 +1,33 @@
+body , html
+{
+    margin: 0px;
+    height: 100vh ;
+}
+
+body
+{    
+display: grid;
+height: 100vh;
+place-content: center;
+background-color: oldlace;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.card
+{
+ padding: 0 5rem;
+}
+
+.card__img
+{
+background: palegreen;
+display: block;
+height: 100px;
+width: 100%;
+}
+
+.card img
+{
+    width: 13%;
+}
+
